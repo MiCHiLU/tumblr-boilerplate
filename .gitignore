@@ -1,5 +1,4 @@
+*.html
 .DS_Store
-.save
-.sass-cache
-node_modules
-
+/.sass-cache
+/node_modules
